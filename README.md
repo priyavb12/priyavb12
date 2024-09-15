@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @priyavb12
-- 👀 I’m interested in data analysis
+- 👋 Hi, I’m Priya Lakshmi
+- 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning ...
-- 💞️ I’m actively seeking collaboration opportunities to further my learning and skill development in this field
+- 💞️ I’m actively seeking collaboration opportunities to further my learning and skill           
+      development in this field
 - 📫 How to reach me --> priyavb1207@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
